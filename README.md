@@ -2,6 +2,13 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+I will just be creating files with the lesson objectives from NodeSchool
+
+
+
+
+
+
 In the project directory, you can run:
 
 ### `npm start`
